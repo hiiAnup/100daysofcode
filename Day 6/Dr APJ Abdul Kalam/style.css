@@ -1,0 +1,47 @@
+img{
+   
+    margin-top: 60px;
+    margin-right: 40px;
+
+    margin-left: 180px;
+
+}
+
+.name{
+    margin-top: 160px;
+    color: darkblue;
+    font-size: 50px;
+    margin-bottom: 0%;
+}
+body{
+    background-color:#C9EEFF;
+}
+
+h2{
+    margin-left: 180px;
+    font-size: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.b{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 320px;
+
+}
+
+.middle-contaner{
+    margin-left: 190px;
+font-size: larger;}
+
+h3{
+    margin-right: 40px;
+}
+
+.k{
+    font-size: large;
+    margin-left: 220px;
+}
+.d{
+    margin-left: 780px;
+}
