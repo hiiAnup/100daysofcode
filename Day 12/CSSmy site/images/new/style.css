@@ -1,0 +1,83 @@
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F2F2F2;
+  }
+  
+  /* Header */
+  header {
+    background-color: #A0D2EB;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #fff;
+    margin: 0;
+  }
+  
+  /* Form */
+  form {
+    background-color: #fff;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  
+  input[type="submit"] {
+    background-color: #A0D2EB;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #0C92D2;
+  }
+
+  input[type="submit"] {
+    /* existing styles */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    /* existing styles */
+    background-color: #0C92D2;
+    transform: scale(1.1);
+  }
+  
+  body {
+    /* existing styles */
+    background-image: url('grapes.jpg');
+    background-repeat: no-repeat;
+    background-position: left top, right top;
+    background-size: contain;
+  }
+  
+  form {
+    /* existing styles */
+    background-image: url('grapes.jpg');
+    background-repeat: no-repeat;
+    background-position: left bottom, right bottom;
+    background-size: contain;
+  }
+  
